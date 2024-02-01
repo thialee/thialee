@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @thialee
-- 👀 I’m interested in education and learning. I enjoy reading, writing, and watching my crazy chickens. I try to learn something new every day!
-- 🌱 I’m currently learning the basics of html5, css, and javascript. I have a wordpress site, but I'd really like to be able to make something special.
-- 💞️ I’m not ready to collaborate on anything yet. I'm in the beginning stages of making sense of things. I'm hoping to have the skills to collaborate soon.
+- 👀 Interested in education and learning. I enjoy reading, writing, and watching my crazy chickens. I try to learn something new every day!
+- 🌱 I’m pretty comfortable with html5, css, and javascript. Now exploring Python and learning how to integrate all the things.
+- 🙋‍♀️ I have lots of experience with WordPress and WooCommerce. 
 - 📫 How to reach me --email is great! Now if only you had my address... perhaps a private message?
 
 <!---
